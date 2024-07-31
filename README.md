@@ -1,5 +1,6 @@
 # CS50_python
 That is how I solved the CS50 assignements about the Python lecture.
+
 1)**Mario**
 A really simple but fun problem.
 
